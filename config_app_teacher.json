@@ -1,10 +1,14 @@
 {
   "ads": {
-    "banner_": "sdfsgd"
+    "id_app": "jsad",
+    "banner_setting": "sdfsgd",
+    "inter_setting": "sdasad",
+    "banner_main": "sjdasd",
+    "inter_main": "jshdka"
   },
   "apps": [
     {
-      "icon": "url",
+      "icon": "urlc",
       "name": "",
       "des": ""
     }
