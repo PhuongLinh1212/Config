@@ -1,16 +1,14 @@
 {
   "ads": {
-    "id_app": "5ea83bdd35810c06f487c029",
-    "banner_setting": "ca-app-pub-3940256099942544/6300978111",
-    "inter_setting": "ca-app-pub-3940256099942544/1033173712",
-    "banner_main": "ca-app-pub-3940256099942544/6300978111",
-    "inter_main": "ca-app-pub-3940256099942544/1033173712",
-    "id": "com.king.candycrushsaga",
-    "is_exists": true
+    "id_app": "5e8c43f435810c06f487c018",
+    "banner_setting": "ca-app-pub-3012698338439910/8379020761",
+    "inter_setting": "ca-app-pub-3012698338439910/2861248009",
+    "banner_main": "ca-app-pub-3012698338439910/7929548336",
+    "inter_main": "ca-app-pub-3012698338439910/5303384994"
   }, 
   "app_exists": {
     "id": "com.king.candycrushsaga",
-    "is_exists": false,
+    "is_exists": true,
     "is_show_more": true
   },
   "apps": [
