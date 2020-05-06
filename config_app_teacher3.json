@@ -8,7 +8,7 @@
   }, 
   "app_exists": {
     "id": "com.king.candycrushsaga",
-    "is_exists": true,
+    "is_exists": false,
     "is_show_more": true
   },
   "apps": [
