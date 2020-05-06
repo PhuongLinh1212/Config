@@ -1,0 +1,23 @@
+{
+  "ads": {
+    "id_app": "5ea83bdd35810c06f487c029",
+    "banner_setting": "ca-app-pub-3940256099942544/6300978111",
+    "inter_setting": "ca-app-pub-3940256099942544/1033173712",
+    "banner_main": "ca-app-pub-3940256099942544/6300978111",
+    "inter_main": "ca-app-pub-3940256099942544/1033173712",
+    "id": "com.king.candycrushsaga",
+    "is_exists": true
+  }, 
+  "app_exists": {
+    "id": "com.king.candycrushsaga",
+    "is_exists": false,
+    "is_show_more": true
+  },
+  "apps": [
+    {
+      "icon": "https://lh3.googleusercontent.com/JkuS60MeuPk4LuxtERyZP71FJH2QyyHUhEyb1hUXX8vtdVEM4ynMimTdHNRyZI7hsSCM=s180-rw",
+      "name": "SuperStar",
+      "des": "Contains BTS songs\nFrom BTS Debut Albums To Latest Albums! Play Them All!:"
+    }
+  ]
+}
