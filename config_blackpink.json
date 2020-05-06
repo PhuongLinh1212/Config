@@ -15,6 +15,7 @@
   },
   "apps": [
     {
+      "id": "com.king.candycrushsaga",
       "icon": "https://books.google.com/books/content/images/frontcover/zvvcDwAAQBAJ?fife=w200-h300",
       "name": "Todo lo que",
       "des": "Todo lo que debes saber para convertirte en una verdadera blink"
