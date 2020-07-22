@@ -5,7 +5,10 @@
     "inter_setting": "ca-app-pub-3012698338439910/1173244311",
     "banner_main": "ca-app-pub-3012698338439910/5495632703",
     "inter_main": "ca-app-pub-3012698338439910/7930224359",
+    "fb_banner":"994962000962931_994962690962862",
+    "fb_inter":"994962000962931_994962257629572",
     "onlyAdmod": true,
+    "onlyFB": false
   }, 
   "app_exists": {
     "id": "com.king.candycrushsaga",
