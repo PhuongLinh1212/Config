@@ -7,8 +7,10 @@
     "inter_main": "ca-app-pub-3012698338439910/5303384994",
     "banner_back":"ca-app-pub-3012698338439910/2057447547",
     "admod_rewarded":"ca-app-pub-3012698338439910/8431284208",
-    "fb_banner":"292004761806057_292005265139340",
-    "fb_inter":"292004761806057_292005065139360"
+    "fb_banner":"292004761806057_330148254658374",
+    "fb_inter":"292004761806057_330149007991632",
+    "onlyAdmod": true,
+    "onlyFB": false
   }, 
   "app_exists": {
     "id": "com.king.candycrushsaga",
