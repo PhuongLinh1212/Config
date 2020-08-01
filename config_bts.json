@@ -7,10 +7,10 @@
     "inter_main": "ca-app-pub-3012698338439910/5303384994",
     "fb_banner": "292004761806057_330148254658374",
     "fb_inter": "292004761806057_330149007991632",
-    "banner_setting_new": "ca-app-pub-4084941899768286/2383093012",
-    "inter_setting_new": "ca-app-pub-4084941899768286/2120752022",
-    "banner_main_new": "ca-app-pub-4084941899768286/2615576049",
-    "inter_main_new": "ca-app-pub-4084941899768286/2440725341",
+    "banner_setting_new": "ca-app-pub-3399710561924220/7521817169",
+    "inter_setting_new": "ca-app-pub-3399710561924220/2269490485",
+    "banner_main_new": "ca-app-pub-3399710561924220/3570021916",
+    "inter_main_new": "a-app-pub-3399710561924220/6017163800",
     "onlyAdmod": true,
     "onlyFB": false
   },
@@ -18,7 +18,8 @@
     "id": "com.king.candycrushsaga",
     "is_exists": true,
     "is_show_more": false,
-    "is_show_like_page": false
+    "is_show_like_page": false,
+    "is_show_banner": false
   },
   "apps": [
     {
