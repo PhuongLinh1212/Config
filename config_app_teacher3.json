@@ -19,7 +19,7 @@
     "is_exists": true,
     "is_show_more": false,
     "is_show_like_page": false,
-    "is_show_banner": false,
+    "is_show_banner": true,
     "is_show_like_page_new": true
   },
   "apps": [
@@ -32,16 +32,16 @@
   ],
   "like_page": [
     {
-      "linkImage": "https://assets.materialup.com/uploads/dcc07ea4-845a-463b-b5f0-4696574da5ed/preview.jpg",
-      "linkClick": "https://www.facebook.com/"
+      "linkImage": "https://www.linkpicture.com/q/banner_fb.png",
+      "linkClick": "https://shopee.vn/shop/103322288"
     },
     {
-      "linkImage": "https://assets.materialup.com/uploads/20ded50d-cc85-4e72-9ce3-452671cf7a6d/preview.jpg",
-      "linkClick": "https://www.facebook.com/buiphuonglinh2812"
+      "linkImage": "https://www.linkpicture.com/q/banner_shopee.png",
+      "linkClick": "https://shopee.vn/shop/103322288"
     },
     {
-      "linkImage": "https://assets.materialup.com/uploads/76d63bbc-54a1-450a-a462-d90056be881b/preview.png",
-      "linkClick": "https://www.facebook.com/tuoitrenongnhiet/"
+      "linkImage": "https://www.linkpicture.com/q/banner_shopee_2.png",
+      "linkClick": "https://www.facebook.com/%C3%81o-thun-1796474033956276"
     }
   ]
 }
