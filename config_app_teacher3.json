@@ -19,8 +19,8 @@
     "is_exists": true,
     "is_show_more": false,
     "is_show_like_page": false,
-    "is_show_banner": true,
-    "is_show_like_page_new": true
+    "is_show_banner": false,
+    "is_show_like_page_new": false
   },
   "apps": [
     {
