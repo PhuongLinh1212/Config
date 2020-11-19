@@ -10,7 +10,8 @@
     "id": "com.king.candycrushsaga",
     "is_exists": true,
     "is_show_more": false,
-    "is_show_ads": false
+    "is_show_ads": false,
+    "isShowAds":false
   },
   "apps": [
     {
