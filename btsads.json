@@ -5,14 +5,14 @@
     "inter_setting": "ca-app-pub-2277813866725244/6599963527",
     "banner_main": "ca-app-pub-2277813866725244/5203121376",
     "inter_main": "ca-app-pub-2277813866725244/3973800187",
-    "fb_banner": "",
-    "fb_inter": "",
+    "fb_banner": "1280912698945168_1280912932278478",
+    "fb_inter": "1280912698945168_1280914325611672",
     "banner_setting_new": "",
     "inter_setting_new": "",
     "banner_main_new": "",
     "inter_main_new": "",
-    "onlyAdmod": true,
-    "onlyFB": false
+    "onlyAdmod": false,
+    "onlyFB": true
   },
   "app_exists": {
     "id": "com.blackpink.blackpinkmessenger.blackpinkcall.callblackpink.blackpinkidol",
