@@ -15,8 +15,8 @@
     "onlyFB": true
   }, 
   "app_exists": {
-    "id": "com.videocall.scaryteacher.v2",
-    "is_exists": true,
+    "id": "com.BTS.BTSchat.BTSMessenger.messenger",
+    "is_exists": false,
     "is_show_more": true,
     "is_show_like_page": false,
     "is_show_banner": false,
